@@ -28,8 +28,8 @@
  * =========================================================
  */
 
-#ifndef PDT_BOOLEAN_HEADER
-#define PDT_BOOLEAN_HEADER
+#ifndef PDT_BOOLEAN_DEFINITION
+#define PDT_BOOLEAN_DEFINITION
 
 #include <stdint.h>
 
